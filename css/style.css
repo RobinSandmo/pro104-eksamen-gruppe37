@@ -60,7 +60,7 @@ body {
 
 .btn:hover {
     box-shadow: 0 0 5px rgb(112, 112, 112);
-    border: 1px solid rgba(112, 112, 112, 1);
+    
 }
 
 .btn--grey {
@@ -138,12 +138,12 @@ body {
 /* Toolbar */
 
 .toolbar {
-    margin: 1rem 5% 0 5%;
-    padding: 1rem 0rem 1rem 0rem;
+    margin: 2rem 10% 0 10%;
+    padding: 2rem 0rem 2rem 0rem;
     display: grid;
     grid-template-columns: repeat(4, 1fr, 1fr, 1fr);
     grid-auto-flow: column;
-    border-bottom: 1px dashed grey;
+    border-bottom: 1px dashed #1b3f26;
     
   
     
